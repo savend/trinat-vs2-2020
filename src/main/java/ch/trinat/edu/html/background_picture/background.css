@@ -1,0 +1,12 @@
+body /* -- Background / Text color / marge 0 --*/
+{
+	background-image: url("image.jpg");
+	background-attachment : fixed;
+	background-size: cover;
+	background-position: center;
+}
+h1
+{
+	color : white;
+	text-align: center;
+}
